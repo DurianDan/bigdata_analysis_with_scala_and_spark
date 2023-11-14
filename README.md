@@ -2,3 +2,4 @@
 
 ## Reference:
 - `sample-scala-project/`: https://moocs.scala-lang.org/~dockermoocs/scala-project.zip
+- `scala-cheat-sheet.md`: https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
