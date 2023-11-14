@@ -1,0 +1,28 @@
+# Scala
+/target/
+.idea/
+*.iml
+*.iws
+*.class
+*.log
+*.jar
+
+# Spark
+/metastore_db/
+/spark-warehouse/
+
+# VSCode
+.vscode/
+.project
+.classpath
+.settings/
+*.launch
+*.vscode
+
+# Metals
+.metals/
+.metals.sbt
+.metals.bloop
+.bloop/
+.bloop.json
+.bsp/
